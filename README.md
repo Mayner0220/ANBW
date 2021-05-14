@@ -8,6 +8,8 @@ A number behind a word
 
 > Reference: [Dacon - 컴퓨터 비전 학습 경진대회 베이스라인 CNN](https://dacon.io/competitions/official/235626/codeshare/1555?page=1&dtype=recent)
 
-- Acc & Loss ![](./img/ANBWv1_acc_loss.png)
+- Acc & Loss 
+![](./img/ANBWv1_acc_loss.png)
 
-- Test(Predict) Visulize ![](./img/test_visualize.png)
+- Test(Predict) Visulize 
+![](./img/test_visualize.png)
