@@ -1,19 +1,21 @@
 # ANBW
-A number behind a word
+A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235626/overview/description)
 
-데이콘 컴퓨터 비전 학습 경진대회 개발
-> Link: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235626/overview/description)
+## Common Settings :rescue_worker_helmet:
 
-### Setting Information
+- dataset: [Dacon - 컴퓨터 비전 학습 경진대회 데이터](https://dacon.io/competitions/official/235626/data)
+- train/validation split size: 0.2
+- seed: 1234
 
-> seed: 1234
-
-### ANBW_v1
+## ANBW_v1 :thinking:
 
 > Reference: [Dacon - 컴퓨터 비전 학습 경진대회 베이스라인 CNN](https://dacon.io/competitions/official/235626/codeshare/1555?page=1&dtype=recent)
 
-- Acc & Loss 
+### Acc & Loss 
 ![](./img/v1/ANBWv1_acc_loss.png)
 
-- Test(Predict) Visulize 
-![](./img/v1/test_visualize.png)
+## ANBW_v2 :cowboy_hat_face:
+
+### Acc & Loss
+
+![](./img/v2/ANBWv2_acc_loss.png)
