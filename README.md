@@ -9,12 +9,24 @@ A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회]
 
 ## ANBW_v1 :thinking:
 
-> Reference: [Dacon - 컴퓨터 비전 학습 경진대회 베이스라인 CNN](https://dacon.io/competitions/official/235626/codeshare/1555?page=1&dtype=recent)
+### Setting
+
+- Model: Baseline Model([Dacon - 컴퓨터 비전 학습 경진대회 베이스라인 CNN)](https://dacon.io/competitions/official/235626/codeshare/1555?page=1&dtype=recent)
+- Loss: categorical_crossentropy
+- Optimizer: Adam
+- Metrics: accuracy
 
 ### Acc & Loss 
 ![](./img/v1/ANBWv1_acc_loss.png)
 
 ## ANBW_v2 :cowboy_hat_face:
+
+### Setting
+
+- Model: EfficientNetB3
+- Loss: categorical_crossentropy
+- Optimizer: RMSprop
+- Metrics: accuracy
 
 ### Acc & Loss
 
