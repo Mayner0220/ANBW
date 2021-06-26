@@ -10,7 +10,7 @@ A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회]
 ## ANBW_v1 :thinking:
 <details>
   <summary> 더보기(To see more details)</summary>
-  
+
 ### Setting
 
 - Model: Baseline Model([Dacon - 컴퓨터 비전 학습 경진대회 베이스라인 CNN)](https://dacon.io/competitions/official/235626/codeshare/1555?page=1&dtype=recent)
@@ -35,7 +35,7 @@ A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회]
 
 ![](./img/v2/ANBWv2_acc_loss.png)
 
-## ANBW_v3
+## ANBW_v3 :hammer:
 
 ### Setting
 
