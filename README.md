@@ -34,3 +34,14 @@ A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회]
 ### Acc & Loss
 
 ![](./img/v2/ANBWv2_acc_loss.png)
+
+## ANBW_v3
+
+### Setting
+
+- Model: EfficientNetB3 + Dense with Dropout
+- Loss: categorical_crossentropy
+- Optimizer: RMSprop
+- Metrics: accuracy
+
+### Acc & Loss
