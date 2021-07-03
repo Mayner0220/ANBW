@@ -42,7 +42,7 @@ A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회]
 
 ### Setting
 
-- Model: EfficientNetB3 + Dropout
+- Model: EfficientNetB3
 - Loss: categorical_crossentropy
 - Optimizer: RMSprop
 - Metrics: accuracy
