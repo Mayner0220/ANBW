@@ -23,6 +23,8 @@ A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회]
 </details>
 
 ## ANBW_v2 :cowboy_hat_face:
+<details>
+  <summary> 더보기(To see more details)</summary>
 
 ### Setting
 
@@ -34,12 +36,13 @@ A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회]
 ### Acc & Loss
 
 ![](./img/v2/ANBWv2_acc_loss.png)
+</details>
 
 ## ANBW_v3 :hammer:
 
 ### Setting
 
-- Model: EfficientNetB3 + Dense with Dropout
+- Model: EfficientNetB3 + Dropout
 - Loss: categorical_crossentropy
 - Optimizer: RMSprop
 - Metrics: accuracy
