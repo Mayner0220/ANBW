@@ -32,6 +32,7 @@ A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회]
 - Loss: categorical_crossentropy
 - Optimizer: RMSprop
 - Metrics: accuracy
+- Image Resizing: (28, 28, 1) -> (280, 280, 3)
 
 ### Acc & Loss
 
@@ -46,5 +47,6 @@ A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회]
 - Loss: categorical_crossentropy
 - Optimizer: RMSprop
 - Metrics: accuracy
+- Image Resizing: (28, 28, 1) -> (300, 300, 3)
 
 ### Acc & Loss
