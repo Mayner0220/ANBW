@@ -4,7 +4,7 @@ A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회]
 ## Common Settings :rescue_worker_helmet:
 
 - dataset: [Dacon - 컴퓨터 비전 학습 경진대회 데이터](https://dacon.io/competitions/official/235626/data)
-- train/validation split size: 0.2
+- train/validation split size: 0.8/0.2
 - seed: 1234
 
 ## ANBW_v1 :thinking:
