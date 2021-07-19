@@ -13,6 +13,7 @@ A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회]
 
 ### Setting
 
+- Python/Tensoflow: 3.7 > / 2.3.0
 - Model: Baseline Model([Dacon - 컴퓨터 비전 학습 경진대회 베이스라인 CNN)](https://dacon.io/competitions/official/235626/codeshare/1555?page=1&dtype=recent)
 - Loss: categorical_crossentropy
 - Optimizer: Adam
@@ -28,6 +29,7 @@ A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회]
 
 ### Setting
 
+- Python/Tensoflow: 3.7 > / 2.3.0
 - Model: EfficientNetB3
 - Loss: categorical_crossentropy
 - Optimizer: RMSprop
@@ -43,6 +45,7 @@ A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회]
 
 ### Setting
 
+- Python/Tensoflow: ? / ? 
 - Model: EfficientNetB3
 - Loss: categorical_crossentropy
 - Optimizer: RMSprop
