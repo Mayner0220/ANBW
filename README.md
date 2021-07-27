@@ -45,7 +45,7 @@ A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회]
 
 ### Setting
 
-- Python/Tensoflow: ? / ? 
+- Python/Tensoflow: 3.7 > / 2.3.0 
 - Model: EfficientNetB3
 - Loss: categorical_crossentropy
 - Optimizer: RMSprop
