@@ -41,7 +41,7 @@ A number behind a word: [Dacon - 데이콘 컴퓨터 비전 학습 경진대회]
 ![](./img/v2/ANBWv2_acc_loss.png)
 </details>
 
-## ANBW_v3 :hammer:
+## ANBW_v3 :hatching_chick:
 
 ### Setting
 
